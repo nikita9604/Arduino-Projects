@@ -9,4 +9,4 @@ it is a smple gate System 2 gate and 2 sensor and a sigle display cond the numbe
 - Potentometer
 ### Tinkercad link - https://www.tinkercad.com/things/h5L4lJa5bFT-funky-turing/editel?sharecode=c_r8uCTM3q0gFZYlbohM7d0-ZKxHARxuB0UKG1Z8PdA
 
-<img src="circuit.png"/>
+<img src="circuit.PNG"/>
